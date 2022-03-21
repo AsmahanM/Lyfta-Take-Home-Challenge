@@ -1,0 +1,19 @@
+.container {
+    height: 23px;
+    background-color: grey;
+    position: relative;
+    border-radius: 6px ;
+}
+
+.container .progress {
+    position: absolute;
+    height: 100%;
+    background-color: red;
+    border-radius: 6px;
+    animation: progress-animation 5s forwards; /*red bar moves forwards (left to right)*/
+}
+
+@keyframes progress-animation {
+    0% { width: 0%;}
+    100% { width: 100%;} /*bar will fill up the width of the container by the end of the video.*/
+}
