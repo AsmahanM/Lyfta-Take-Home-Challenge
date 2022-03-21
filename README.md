@@ -1,7 +1,7 @@
 # Lyfta Take Home Challenge
 
 ## The Challenge:
-### This challenge has been completed as part of Lyfta's Software Developer Apprentice application process.
+### This challenge has been completed as part of [Lyfta's](https://www.lyfta.com/) Software Developer Apprentice application process.
 The objective of the challenge is to start building a video player and focus on a specific user story. Issues should also be raised for other user stories that could also be taken into consideration when building a complete video player.
 
 
